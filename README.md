@@ -52,8 +52,8 @@
 
 <img height=25% width=60% src="https://github.com/ROHITJAIND/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118707073/ee8511ec-3d61-42b6-b814-f2552a9c15d0">
 
-### Name: Guruprasad B
-### Register Number: 212221230032
+### Name: Berjin Shabeck
+### Register Number: 212222240018
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
